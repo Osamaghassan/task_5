@@ -1,0 +1,10 @@
+.demo {
+    background-color: red;
+    color: blueviolet;
+    border: 2 solid;
+}
+
+.vip {
+    color: blueviolet;
+   background-color: yellowgreen;
+}
